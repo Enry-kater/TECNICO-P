@@ -32,8 +32,8 @@ CONTACTANOS AL NUMERO:<p>
       <p>  COMPUTADORAS Y CAMBIOS DE PANTALLA <p>  
 
  <p> TELEFONOS y
- TELEVISOR<img src="nueva .jpg.webp" width="400" height="200"/> <p> 
- <p>IMPRESORA<p>  
+ TELEVISOR<img src="nueva .jpg.webp" width="30" height="30"/> <p> 
+ <p>IMPRESORAimg src="nueva .jpg.webp" width="30" height="30"/><p>  
  </p> <p> 
   <!-- inicio del piede de pagina -->
   <div class="footer">
