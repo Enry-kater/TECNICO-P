@@ -41,7 +41,6 @@ CONTACTANOS AL NUMERO:<p>
  <p>IMPRESORA<p>  
  </p> <p> 
 
-    </div>
   </div>
   <!-- inicio del piede de pagina -->
   <div class="footer">
