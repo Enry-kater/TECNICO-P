@@ -15,19 +15,9 @@
   <!-- Crear el menu -->
   <div class="topnav">
 	        <!--p align="rigth">MINED -->
- <https:////><A HREF="ARER.html">  INICIO DE UN FORMULARIO,
+ <https:////><A HREF="ARER.html">  INICIO DE UN FORMULARIO<p>
  <https:// //><A HREF="ARER.html">VENTA DE DISPOSITIVOS TECNOLOGICO </a> 
        </div>
-  </div>
-  <!-- inicio del piede de pagina -->
-  <div class="footer">
-    <p> <h8></h8> </p>
-<a href="#">SISTEMA DE GESTION DE TALLERES  DE  REPARACIONES DE COMPUTADORAS Y CELULARES   </a>
-
-  </div>
-
-	<a href="https://www.nintendo.com/us/"></a>
-    <a href=""></a>
   </div>
   <!-- cuerpo de la pagina -->
   <div class="row">`
