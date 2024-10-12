@@ -6,7 +6,6 @@
   <div class="header">
  <h1> 
  <img src="123.jpg" width="30" height="30"/>
-	 img src="nueva .jpg.webp" width="300" height="300"/>
  TECNICO DE COMPUTADORA E.Z  </h1>
   </div>
 
