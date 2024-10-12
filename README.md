@@ -1,17 +1,8 @@
-<head>
-                                      <title>
-                                           formulario de registro
-                                      </title>
+
 </head>
 <body>
 <form>
-<fieldset>
-	
-	<link rel="stylesheet" type="text/css" href="css/estilo.css" /> 
-	
-  </style>
-</head>
-
+<fieldset
 <body>
   <!-- Definimos el area del encabezado -->
   <div class="header">
