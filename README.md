@@ -17,8 +17,6 @@
 	        <!--p align="rigth">MINED -->
 	  <li><A href="https://enry-kater.github.io/formulario-pz/">INICIO  DE FORMULARIO </li>
 		  <li><A href="//enry-kater.github.io/venta-prue//">VENTA DE DISPOSITIVOS TECNOLOGICO </li>
-       </div>
-  </div>
   <!-- cuerpo de la pagina -->
   <div class="row">`
     <div class="row__column side">
