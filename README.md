@@ -25,8 +25,8 @@
       <h2> EN QUE PODEMOS AYUDARTE</h2><p>
 <img src="123.jpg" width="30" height="30"/>CONTACTANOS AL NUMERO:<p>
 <p>6852-94789 <p>
-     <p> <img src="123.jpg" width="30" height="30"/> CON EL REPARADOR DE  EQUIPOS ELECTRONICOS<p>
-<p>NOMBRE: ERNESTO MENDOZA</p>
+     <p> <img src="electrico.gif" width="30" height="30"/> CON EL REPARADOR DE  EQUIPOS ELECTRONICOS<p>
+<p> img src="ER.webp" width="30" height="30"/>NOMBRE: ERNESTO MENDOZA</p>
     <div class="row__column middle">
       <h2>suscribete anuestro canal de reparador de equipos Elecronicos </h2>
       <p>https://www.youtube.com/results?search_query= REPARADOR+DE+EQUIPO</p>
