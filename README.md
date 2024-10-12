@@ -15,7 +15,8 @@
   <!-- Crear el menu -->
   <div class="topnav">
 	        <!--p align="rigth">MINED -->
-	  <li><A href="https://enry-kater.github.io/formulario-pz/">INICIO  DE FORMULARIO </li> <li><A href="//enry-kater.github.io/venta-prue//">VENTA DE DISPOSITIVOS TECNOLOGICO </li>
+	  <li><A href="https://enry-kater.github.io/formulario-pz/">INICIO  DE FORMULARIO </li>
+		  <li><A href="//enry-kater.github.io/venta-prue//">VENTA DE DISPOSITIVOS TECNOLOGICO </li>
        </div>
   </div>
   <!-- cuerpo de la pagina -->
@@ -27,7 +28,7 @@ CONTACTANOS AL NUMERO:<p>
      <p>  CON EL REPARADOR DE  EQUIPOS ELECTRONICOS<p>
 <p> NOMBRE: ERNESTO MENDOZA</p>
     <div class="row__column middle">
-    <div class="row____column side">
+    <div class="row____ column side">
    <h2>REPARACIONES DE EQUIPOS TECNOLOGICO</h2>
       <p>  COMPUTADORAS Y CAMBIOS DE PANTALLA <p>  
 
