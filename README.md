@@ -28,9 +28,6 @@ CONTACTANOS AL NUMERO:<p>
      <p>  CON EL REPARADOR DE  EQUIPOS ELECTRONICOS<p>
 <p> NOMBRE: ERNESTO MENDOZA</p>
     <div class="row__column middle">
-      <h2>suscribete anuestro canal de reparador de equipos Elecronicos </h2>
-      <p>https://www.youtube.com/results?search_query= REPARADOR+DE+EQUIPO</p>
-    </div>
     <div class="row____column side">
    <h2>REPARACIONES DE EQUIPOS TECNOLOGICO</h2>
       <p>  COMPUTADORAS Y CAMBIOS DE PANTALLA <p>  
