@@ -13,7 +13,7 @@
   <!-- Crear el menu -->
   <div class="topnav">
 	        <!--p align="rigth">MINED -->
-	  <li><A href="https:https://enry-kater.github.io/venta-prue//">INICIO DE UN FORMULARIO </a></li>
+	  <li><A href="//enry-kater.github.io/venta-prue//">inicio</a></li>
  <https:// //><A HREF="ARER.html">VENTA DE DISPOSITIVOS TECNOLOGICO </a> 
        </div>
   </div>
