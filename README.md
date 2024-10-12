@@ -14,7 +14,7 @@
   <div class="topnav">
 	        <!--p align="rigth">MINED -->
 	  <li><A href="//enry-kater.github.io/venta-prue//">inicio</a></li>
- <https:// //><A HREF="ARER.html">VENTA DE DISPOSITIVOS TECNOLOGICO </a> 
+	 <li><A href="//enry-kater.github.io/venta-prue//">VENTA DE DISPOSITIVOS TECNOLOGICO </a></li>
        </div>
   </div>
   <!-- cuerpo de la pagina -->
