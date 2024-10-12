@@ -15,8 +15,8 @@
   <!-- Crear el menu -->
   <div class="topnav">
 	        <!--p align="rigth">MINED -->
-<p>  <https://enry-kater.github.io/venta-prue//><A HREF="ARER.html">  INICIO DE UN FORMULARIO <p>  
-<p> <https://enry-kater.github.io/venta-prue//><A HREF="ARER.html">VENTA DE DISPOSITIVOS TECNOLOGICO </a><p>  
+ <https:////><A HREF="ARER.html">  INICIO DE UN FORMULARIO 
+ <https:// //><A HREF="ARER.html">VENTA DE DISPOSITIVOS TECNOLOGICO </a> 
        </div>
   </div>
   <!-- inicio del piede de pagina -->
