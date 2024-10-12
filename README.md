@@ -31,8 +31,8 @@ CONTACTANOS AL NUMERO:<p>
    <h2>REPARACIONES DE EQUIPOS TECNOLOGICO</h2>
       <p>  COMPUTADORAS Y CAMBIOS DE PANTALLA <p>  
 
- <p> TELEFONOS y
- TELEVISOR y otros dispositivos <p>
+ <p> TELEFONOS Y
+ TELEVISOR Y OTROS DISPOSITIVOS  <p>
   <!-- inicio del piede de pagina -->
   <div class="footer">
     <p> <h3></h3> </p>
