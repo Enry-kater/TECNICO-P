@@ -32,7 +32,7 @@ CONTACTANOS AL NUMERO:<p>
       <p>  COMPUTADORAS Y CAMBIOS DE PANTALLA <p>  
 
  <p> TELEFONOS y
- TELEVISOR <p> 
+ TELEVISOR<img src="nueva .jpg.webp" width="400" height="200"/> <p> 
  <p>IMPRESORA<p>  
  </p> <p> 
   <!-- inicio del piede de pagina -->
