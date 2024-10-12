@@ -6,6 +6,7 @@
   <div class="header">
  <h1> 
  <img src="123.jpg" width="30" height="30"/>
+	 img src="nueva .jpg.webp" width="300" height="300"/>
  TECNICO DE COMPUTADORA E.Z  </h1>
   </div>
 
@@ -33,8 +34,8 @@ CONTACTANOS AL NUMERO:<p>
 
  <p> TELEFONOS y
  TELEVISOR<img src="nueva .jpg.webp" width="30" height="30"/> <p> 
- <p>IMPRESORAimg src="nueva .jpg.webp" width="30" height="30"/><p>  
- </p> <p> 
+ <p>IMPRESORAimg <p>  
+ <p> 
   <!-- inicio del piede de pagina -->
   <div class="footer">
     <p> <h3></h3> </p>
