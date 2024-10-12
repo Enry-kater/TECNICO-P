@@ -2,7 +2,6 @@
 <body>
 <form>
 <body>
-	style ="background-color: Blub">blub </div>
   <!-- Definimos el area del encabezado -->
   <div class="header">
  <h1> 
@@ -24,7 +23,7 @@
   <div class="row">`
     <div class="row__column side">
       <h2> EN QUE PODEMOS AYUDARTE</h2><p>
-CONTACTANOS AL NUMERO:<p>
+<img src="123.jpg" width="30" height="30"/>CONTACTANOS AL NUMERO:<p>
 <p>6852-94789 <p>
      <p>  CON EL REPARADOR DE  EQUIPOS ELECTRONICOS<p>
 <p>NOMBRE: ERNESTO MENDOZA</p>
