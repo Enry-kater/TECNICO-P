@@ -1,8 +1,6 @@
 
-</head>
 <body>
 <form>
-<fieldset
 <body>
   <!-- Definimos el area del encabezado -->
   <div class="header">
@@ -27,7 +25,6 @@ CONTACTANOS AL NUMERO:<p>
 <p>6852-94789 <p>
      <p>  CON EL REPARADOR DE  EQUIPOS ELECTRONICOS<p>
 <p>NOMBRE: ERNESTO MENDOZA</p>
-    </div>
     <div class="row__column middle">
       <h2>suscribete anuestro canal de reparador de equipos Elecronicos </h2>
       <p>https://www.youtube.com/results?search_query= REPARADOR+DE+EQUIPO</p>
@@ -40,8 +37,6 @@ CONTACTANOS AL NUMERO:<p>
  TELEVISOR <p> 
  <p>IMPRESORA<p>  
  </p> <p> 
-
-  </div>
   <!-- inicio del piede de pagina -->
   <div class="footer">
     <p> <h3></h3> </p>
