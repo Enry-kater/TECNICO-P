@@ -60,12 +60,6 @@ CONTACTANOS AL NUMERO:<p>
 
 <img src="nueva .jpg.webp" width="400" height="200"/>
 <img src="si (1).jfif" width="400" height="200"/>
-<img src="3.jfif" width="400" height="200"/>
-
-  </div>  
-  <audio controls> <source src="musica.m4a " type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
-
-       </video>
-    
+<img src="3.jfif" width="400" height="200"/>  
 	<a href="Base Access China.html"></a> <br>
 
