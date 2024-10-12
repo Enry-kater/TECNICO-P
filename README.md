@@ -4,7 +4,7 @@
 <body>
   <!-- Definimos el area del encabezado -->
   <div class="header">
- <h1> <img src="si (1).jfif" width="100" height="100"/> TECNICO DE COMPUTADORA E.Z  </h1>
+ <h1> <img src="si (1).jfif" width="50" height="50"/> TECNICO DE COMPUTADORA E.Z  </h1>
   </div>
 
   <!-- Crear el menu -->
