@@ -2,6 +2,7 @@
 <body>
 <form>
 <body>
+	style ="background-color: Blub">blub </div>
   <!-- Definimos el area del encabezado -->
   <div class="header">
  <h1> 
@@ -15,7 +16,7 @@
   <!-- Crear el menu -->
   <div class="topnav">
 	        <!--p align="rigth">MINED -->
-	  <li><A href="https://enry-kater.github.io/formulario-pz/">inicio DE FORMULARIO </a></li>
+	  <li><A href="https://enry-kater.github.io/formulario-pz/">INICIO  DE FORMULARIO </a></li>
 	 <li><A href="//enry-kater.github.io/venta-prue//">VENTA DE DISPOSITIVOS TECNOLOGICO </a></li>
        </div>
   </div>
