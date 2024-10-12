@@ -15,7 +15,7 @@
   <!-- Crear el menu -->
   <div class="topnav">
 	        <!--p align="rigth">MINED -->
- <https:////><A HREF="ARER.html">  INICIO DE UN FORMULARIO 
+ <https:////><A HREF="ARER.html">  INICIO DE UN FORMULARIO,
  <https:// //><A HREF="ARER.html">VENTA DE DISPOSITIVOS TECNOLOGICO </a> 
        </div>
   </div>
