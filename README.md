@@ -5,7 +5,7 @@
   <!-- Definimos el area del encabezado -->
   <div class="header">
  <h1> 
- <img src="logo.jpg" width="30" height="30"/>
+ <img src="123.jpg" width="30" height="30"/>
  TECNICO DE COMPUTADORA E.Z  </h1>
   </div>
 
