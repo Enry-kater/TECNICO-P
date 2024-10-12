@@ -4,7 +4,9 @@
 <body>
   <!-- Definimos el area del encabezado -->
   <div class="header">
- <h1>  TECNICO DE COMPUTADORA E.Z  </h1>
+ <h1> 
+ <img src="logo.jpg" width="30" height="30"/>
+ TECNICO DE COMPUTADORA E.Z  </h1>
   </div>
 
   <!-- Crear el menu -->
